@@ -1,0 +1,218 @@
+POST http://localhost:8000/admin/?username=admin&passwd=123
+
+<> 2019-06-21T112920.403.html
+
+###
+
+POST http://localhost:8000/admin/?username=admin&passwd=123
+
+<> 2019-06-21T112918.403.html
+
+###
+
+POST http://localhost:8000/api-auth/login/?username=admin&passwd=123
+
+<> 2019-06-21T112826.403.html
+
+###
+
+POST http://localhost:8000/api-auth/login/?username=admin&passwd=123
+
+<> 2019-06-21T112821.403.html
+
+###
+
+POST http://localhost:8000/api-auth/?username=admin&passwd=123
+
+<> 2019-06-21T112739.404.html
+
+###
+
+DELETE http://localhost:8000/api/teachers/2/?age=122
+
+<> 2019-06-21T112647.403.json
+
+###
+
+PUT http://localhost:8000/api/teachers/2/?age=122
+
+<> 2019-06-21T112631.403.json
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111545.404.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111527.500.html
+
+###
+
+GET http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111518.200.json
+
+###
+
+GET http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111318.404.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111300.404.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111218-2.500.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111218-1.500.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111218.500.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111217-1.500.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111217.500.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111216-1.500.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111216.500.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111215-1.500.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?age=122
+
+<> 2019-06-21T111215.500.html
+
+###
+
+PUT http://localhost:8000/api/teachers/2?name=5555
+
+<> 2019-06-21T111106.500.html
+
+###
+
+GET http://localhost:8000/api/teachers/2
+
+<> 2019-06-21T111048.200.json
+
+###
+
+DELETE http://localhost:8000/api/teachers/2
+
+###
+
+DELETE http://localhost:8000/api/teachers/2?id=2&name=alice
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+DELETE http://localhost:8000/api/teachers/2?id=2&name=alice
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+DELETE http://localhost:8000/api/teachers/2?id=2&name=alice
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+DELETE http://localhost:8000/api/teachers?id=2&name=alice
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8000/api/teachers?id=2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-21T110933.200.json
+
+###
+
+DELETE http://localhost:8000/api/teachers?id=2
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+POST http://localhost:8000/api/teachers
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-21T110856.500.html
+
+###
+
+GET http://localhost:8000/api/teachers
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-21T110837.200.json
+
+###
+
+GET http://localhost:8000/api/teacher
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-21T110803.404.html
+
+###
+
+GET http://localhost:8000/api/teacher
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-06-21T110736.404.html
+
+###
+
+GET http://localhost:8080/api/teacher
+Accept: */*
+Cache-Control: no-cache
+
+###
+

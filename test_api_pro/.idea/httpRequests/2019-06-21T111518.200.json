@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "name": "alice",
+  "sex": false,
+  "age": 34,
+  "class_num": "1",
+  "description": "666"
+}
